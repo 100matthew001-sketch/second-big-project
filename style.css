@@ -144,7 +144,7 @@ header {
     margin: 0 auto;
     margin-bottom: 30px;
     display: flex;
-    align-items: center;
+    align-items: column;
     justify-content: center;
     background-color: #fefefe;
 }
