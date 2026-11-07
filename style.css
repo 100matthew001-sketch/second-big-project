@@ -224,6 +224,11 @@ SOCIAL
     letter-spacing: 8px;
 }
 
+.section__description {
+    display: flex;
+    align-items: center;
+}
+
 .section__card--img--wrapper {
     width: 60%;
     padding: 0 24px;
@@ -252,10 +257,21 @@ CONTACT
      border-radius: 16px;
 }
 
-.form {
+form {
     width: 100%;
     max-width: 900px;
     display: flex;
     flex-direction: column;
-    
+    margin: 0 auto;
+    padding: 0 24px;
+    gap: 12px;
 }
+
+input, textarea {
+    margin-bottom: 24px;
+    font-size: 20px;
+    padding: 6px 12px;
+    width: 500px;
+    border-radius: 6px;
+}
+
