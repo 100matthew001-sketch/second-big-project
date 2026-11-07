@@ -239,3 +239,23 @@ SOCIAL
     line-height: 1.5;
     margin-bottom: 24px;
 }
+
+/*
+
+CONTACT
+
+*/
+
+.section__card--contact {
+     border: 1.5px dashed #c231c2;
+     width: 96%;
+     border-radius: 16px;
+}
+
+.form {
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    
+}
