@@ -193,7 +193,7 @@ SOCIAL
 }
 
 .section__card {
-    border: 1.5px dashed #cbd5e1;
+    border: 1.5px solid #cbd5e1;
     padding: 40px 20px;
     width: 100%;
     max-width: 1200px;
@@ -252,7 +252,7 @@ CONTACT
 */
 
 .section__card--contact {
-     border: 1.5px dashed #c231c2;
+     border: 1.5px solid #c231c2;
      width: 96%;
      border-radius: 16px;
 }
